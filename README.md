@@ -1,0 +1,1 @@
+This repo is inspired by the book Building Distributed Applications in Gin.
